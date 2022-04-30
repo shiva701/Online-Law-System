@@ -1,0 +1,70 @@
+#firform{
+    float : left ;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+#userhead, #userhead h2{
+    text-align: center;
+    margin-top: 1%;
+}
+
+#body{
+background-image:url('images/backuser1.png'); 
+background-size: 100% 100%; 
+background-repeat: no-repeat;   
+}
+
+#welcome{
+text-align: center;
+}
+
+.report{
+    color:red;
+    font-family: verdana;
+    font-size: 20px;
+}
+
+#userprofilenav{
+    margin-left: 4%;
+}
+
+#userprofilenav a {
+    color:brown;
+    font-size: 150%;
+}
+
+#userprofilenav a:hover{
+    color: navy;
+}
+
+#response{
+    margin-top: 320px;
+    margin-left: 30px;
+}
+
+#header #logo{ margin-top:2%; float:left; width:40%; }
+
+#header #logo h1, #header #logo p{
+	margin: 0;
+	padding: 0;
+	line-height: normal;
+	color: #FFFFFF;
+        margin-left:30%;
+}
+
+#header #logo h1{
+	font-size: 250%;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+
+#header h1 a{
+	color: #8EA0D0;
+	background-color: #e6f2ff
+}
+
+.headh2{
+    font-family: serif;
+    font-style: inherit;
+}
